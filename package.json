@@ -1,13 +1,13 @@
 {
-  "name": "surrender-cube.nodejitsu.com",
-  "version": "0.0.0-2",
+  "name": "surrender-cube",
+  "version": "0.0.0-1",
   "dependencies": {
     "charm": "0.0.x",
-    "surrender-cube" : "0.0.1"
+    "surrender-cube": "0.0.1"
   },
   "scripts": {
     "start": "./server.js"
   },
   "analyze": false,
-  "subdomain": "surrender-cube.nodejitsu.com"
+  "subdomain": "surrender-cube"
 }
