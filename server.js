@@ -4,4 +4,4 @@ var charm = require('charm');
 
 http.createServer(function (req, res) {
     cube({ charm : charm(req, res) });
-}).listen(8080);
+}).listen(80);
