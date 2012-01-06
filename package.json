@@ -1,0 +1,11 @@
+{
+  "name": "surrender-cube.nodejitsu.com",
+  "version": "0.0.0",
+  "dependencies" : {
+    "surrender-cube" : "0.0.x"
+  },
+  "scripts": {
+    "start": "./server.js"
+  },
+  "analyze": false
+}
